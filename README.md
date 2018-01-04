@@ -1,6 +1,6 @@
 # MovieLensDataAnalysis
 
-
+<b> IMDB has large datasets of all the movies released till date. This POC is intended to solve many KPIs so we can determine important insights from movie dataset.</b>
 KPI 1 : - To find top 10 most viewed movies
 
 Solution Steps : 
